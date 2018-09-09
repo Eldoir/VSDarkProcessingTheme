@@ -1,6 +1,7 @@
 # Visual Studio Dark Theme for Processing
 
 A Dark Theme for Processing that mimics the Visual Studio Dark Theme.
+
 Thanks to [Jeff Thompson](#authors) for doing most of the hard work!
 
 ## How to install
@@ -8,15 +9,19 @@ Thanks to [Jeff Thompson](#authors) for doing most of the hard work!
 There are only 2 steps in order to install this theme, but these steps vary by OS.
 
 * Windows: 
-    1. Copy the **content** of `VSDarkProcessingTheme\lib` into the `lib` folder where you installed Processing.
+    - Copy the **content** of `VSDarkProcessingTheme\lib` into the `lib` folder where you installed Processing.
   For example, if you installed Processing in `C:\Program Files\processing-3.4`, then your `lib` folder is simply located in `C:\Program Files\processing-3.4\lib`.
-    2. Copy `preferences.txt` into `C:\Users\[username]\AppData\Roaming\Processing`.
+    - Copy `preferences.txt` into `C:\Users\[username]\AppData\Roaming\Processing`.
         To access the `AppData\Roaming` hidden folder, go to the Windows menu and type `%appdata%` in the search bar.
         The `Roaming` folder should appear. 
 * Mac:
-    1. Copy the **content** of `VSDarkProcessingTheme/lib` into `~/Applications/Processing.app/Contents/Java/lib`.
+    - Copy the **content** of `VSDarkProcessingTheme/lib` into `~/Applications/Processing.app/Contents/Java/lib`.
         To access this location, go to the Processing app, right-click and choose *Show Package Contents*.
-    2. Copy `preferences.txt` into `~/Library/Processing`. To access this location, open a new Finder window, use the shortcut `Shift-Command-G` and paste `~/Library/Processing`. Hit the `Go` button and you're in!
+    - Copy `preferences.txt` into `~/Library/Processing`.
+        To access this location, open a new Finder window, use the shortcut `Shift-Command-G` and paste `~/Library/Processing`. Hit the `Go` button and you're in!
+* Linux:
+    - Copy the **content** of `VSDarkProcessingTheme/lib` into the `lib` folder of Processing.
+    - Copy `preferences.txt` into `~/.processing`.
 
 ## Screenshots
 
@@ -31,7 +36,7 @@ There are only 2 steps in order to install this theme, but these steps vary by O
 
 ## Authors
 
-* Special thanks to **[Jeff Thompson](https://github.com/jeffThompson/DarkProcessingTheme_3.0)**
+* Special thanks to **[Jeff Thompson](https://jeffreythompson.org)** for his [GitHub repo](https://github.com/jeffThompson/DarkProcessingTheme_3.0) on DarkProcessingTheme.
 * **[Arthur Cousseau](https://www.linkedin.com/in/arthurcousseau)**
 
 ## License

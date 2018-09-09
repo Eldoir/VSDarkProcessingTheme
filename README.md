@@ -4,6 +4,10 @@ A Dark Theme for Processing that mimics the Visual Studio Dark Theme.
 
 Thanks to [Jeff Thompson](#authors) for doing most of the hard work!
 
+## Screenshot
+
+![Example](Screenshots/Example_1.PNG)
+
 ## How to install
 
 There are only 2 steps in order to install this theme, but these steps vary by OS.
@@ -22,10 +26,6 @@ There are only 2 steps in order to install this theme, but these steps vary by O
 * Linux:
     - Copy the **content** of `VSDarkProcessingTheme/lib` into the `lib` folder of Processing.
     - Copy `preferences.txt` into `~/.processing`.
-
-## Screenshots
-
-![Example](Screenshots/Example_1.PNG)
 
 ## Notes
 

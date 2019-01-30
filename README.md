@@ -29,7 +29,7 @@ There are only 2 steps in order to install this theme, but these steps vary by O
 
 ## Notes
 
-* Last tested with [Processing 3.4 Win32 (26 July 2018)](http://download.processing.org/processing-3.4-windows32.zip).
+* Last tested with [Processing 3.5.2 Win32 (22 January 2019)](https://processing.org/download/).
 * You can notice on the screenshot that the line numbers are not blue like in the VS Dark Theme: that's because the line numbers in Processing are closer to the code than in VS, so I decided to make them gray to avoid confusion.
 * Still on the screenshot, you can see that the `PVector` keyword is not colored if it's placed after the `new` keyword. I couldn't find the right setting to fix this, and in fact I think it's not possible. Please tell me if you find it :)
 * When using the theme, you will also notice that the primitive types (`float`, `int`...) are green like `PVector`, and not blue like in VS. That's because Processing doesn't make the difference between primitive types and custom types, so I decided to keep them green to avoid having too many blue in the code.
